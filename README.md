@@ -1,2 +1,2 @@
 # image-search
-visual search
+visual search image
