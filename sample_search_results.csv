@@ -1,0 +1,6 @@
+rank,path,similarity,caption
+1,data/images/000101.jpg,0.92,red sports car on street
+2,data/images/000237.jpg,0.88,car driving in the city
+3,data/images/000563.jpg,0.85,red vehicle near buildings
+4,data/images/000812.jpg,0.83,red sedan on road
+5,data/images/000999.jpg,0.8,car near a crosswalk
